@@ -1,0 +1,17 @@
+#body1 {
+    height: 143mm;
+    width: 70mm;
+    background-color: red;
+    position:center;
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: ;
+    grid-template-areas: ;
+}
+
+.navbox {
+
+}
+
+
